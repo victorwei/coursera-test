@@ -39,7 +39,7 @@ h2{
 	background-color: #4636AE;
 }
 .section {
-	background-color: grey;
+	background-color: #BFBFBF;
 	position: relative;
 	border: 1px solid black;
 	margin-right: 15px;
@@ -47,21 +47,6 @@ h2{
 
 }
 
-/**.section {
-	background-color: grey;
-	margin-bottom: 10px;
-	border: 10px;
-	align-self: center;
-	margin-top: 20px;
-	height: 85%;
-	width:100%;
-	border: 1px solid black;
-	margin-right: auto;
-	margin-left: auto;
-	position:relative;
-	padding
-
-}**/
 
 .section > p {
 	margin-top: 35px;
@@ -69,8 +54,6 @@ h2{
 	margin-bottom: 20px;
 	width:90%;
 }
-
-
 
 
 /****** Desktop View ******/
